@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #shut down the target machine
-#Boot the target to another os ( eg kali)
+#Boot the target to another os ( eg kali) and download this script and run
 #mount the local hard drive
    mount/dev/sda1/mnt/sda1
   
